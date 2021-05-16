@@ -88,7 +88,7 @@ postgresql_hba_entries:
 * auth_options 
 
 
-##EXAMPLE PLAYBOOK
+## EXAMPLE PLAYBOOK
 
 ```
 - hosts: postgre
